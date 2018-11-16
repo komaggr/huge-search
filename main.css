@@ -5,70 +5,84 @@
 }
 
 body {
-    background-color: #F1F1F1;
+    background-color: #DDDDDD;
 }
+
 nav {
-    display: inline-block;
-    width: 1400px;
-    max-width: 100%;
-    padding-right: 50px;
-    padding-left: 50px;
+    display: block;
+    width: 1200px;
 }
-input.search {
-    width: 70%;
+
+input {
+    display: inline-block;
+    width: 995px;
     color: #ec5a62;
     font-size: 120px;
-    background: #F1F1F1;
+    border: 0;
+    background: #DDDDDD;
     border-radius: 5px;
+    vertical-align: middle;
 }
+
 button {
-    width: 30%;
-}
-main {
-    margin: 0 auto;
-    width: 1400px;
-    max-width: 100%;
-    padding-right: 50px;
-    padding-left: 50px;
-}
-div {
     display: inline-block;
-    width: 30%;
-    margin: 0 auto;
-    box-sizing: border-box;
-    border: 2px solid #F1F1F3;
-    height: 70px;
-    background: rgba(118,117,128,0.05);
-    padding: 10px;
+    width: 195px;
+    border: 0;
+}
+
+section {
+    display: block;
+    width: 1200px;
+    max-width: 100%;
+    border: 0;
+}
+
+h2 {
+    display: block;
+    width: 397px;
+    height: 80px;
+    padding: 25px;
+    background-color: #DDDDDD;
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: block;
+    width: 397px;
+    height: 80px;
+    border: 0 #F1F1F3;
+    background: rgba(118, 117, 128, 0.05);
     font-weight: bolder;
     color: #c2c2c2;
+    margin-bottom: 3px;
 }
+
 a {
-    display: inline-block;
-    width: 30%;
-    margin: 0 auto;
-    box-sizing: border-box;
-    border: 2px solid #F1F1F3;
-    height: 70px;
-    background: rgba(118,117,128,0.05);
-    padding: 10px;
+    width: inherit;
+    height: inherit;
+    display: block;
+    border: 0;
+    padding: 15px;
+    background: rgba(118, 117, 128, 0.05);
     font-weight: bolder;
     color: #727272;
     text-decoration: none;
+
 }
+
 a:hover {
     color: #ec5a62;
 }
+
 img {
     vertical-align: middle;
 }
+
 img.p {
     border-radius: 100px;
-}
-.group {
-    color: #727272;
-    padding: 25px 0 25px 25px;
-    text-align: left;
-    font-weight: bolder;
-    background: #F1F1F1;
 }

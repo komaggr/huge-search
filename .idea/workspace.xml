@@ -10,29 +10,6 @@
       <change afterPath="$PROJECT_DIR$/../bem/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bem/btn.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../forms/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/.idea/HW2610_hugedsearch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hugedsearch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/AnimatedHeaderBackgrounds.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/ArrowNavigationStyles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/ArticleIntroEffects.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/DraggableDualViewSlideshow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/FreebieHalcyonDays.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/HoverEffectsIdeasNew.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/NotificationStyles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/OffCanvas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/PagePreloadingEffect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/PatrickCox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/PeterFinlan.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/RachelSmith.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/ResponsiveSVGs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/SaraSoueidan.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/ShaunDona.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/TabStyles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/TimHolman.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/TooltipStylesInspiration.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/huge-search-img-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hugedsearch/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hugedsearch/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hugedsearch/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,7 +77,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/../hugedsearch/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1281">
+                <state relative-caret-position="1921">
                   <caret line="113" column="28" lean-forward="true" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
                 </state>
               </provider>
@@ -170,7 +147,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="824" />
     <option name="width" value="783" />
     <option name="height" value="907" />
@@ -231,12 +208,12 @@
       <workItem from="1541712508561" duration="96000" />
       <workItem from="1541745024029" duration="2462000" />
       <workItem from="1541841947478" duration="125000" />
-      <workItem from="1542300325108" duration="14556000" />
+      <workItem from="1542300325108" duration="15160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49405000" />
+    <option name="totallyTimeSpent" value="50009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
@@ -292,7 +269,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../hugedsearch/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
+        <state relative-caret-position="1921">
           <caret line="113" column="28" lean-forward="true" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
         </state>
       </provider>
